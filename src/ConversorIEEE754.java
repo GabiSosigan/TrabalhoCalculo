@@ -71,6 +71,4 @@ public class ConversorIEEE754 {
         System.out.println("Mantissa: " + this.mantissa);
     }
 
-    public void soma (double numDecimal){}
-
 }
